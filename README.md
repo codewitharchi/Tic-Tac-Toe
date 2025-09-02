@@ -4,7 +4,7 @@ A simple *Tic Tac Toe game* built with *HTML, CSS, and JavaScript*.
 Play with a friend and see who wins — X or O!
 
 ## 🚀 Live Demo
-[Click here to play](https://tumhara-username.github.io/tic-tac-toe/)
+[Click here to play](codewitharchi.github.io/tic-tac-toe/)
 
 ## 🛠 Features
 - Two-player mode (X vs O)
