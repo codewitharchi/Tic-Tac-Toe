@@ -18,7 +18,7 @@ Play with a friend and see who wins — X or O!
 - JavaScript
 
 ## 📷 Screenshot
-![Game Preview](https://codewitharchi.github.io/Tic-Tac-Toe/blob/main/ss.png?raw=true)
+![Game Preview](ss.png)
 
 ## 🙌 Author
 Made with ❤ by *Archi Bindal*
